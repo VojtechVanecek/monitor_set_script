@@ -1,2 +1,6 @@
 # monitor_set_script
-Automatically set preferred monitor option.
+
+xrandr utility needs to be installed
+
+PreferredOption - external monitor
+DefaultOption - default (built-in) monitor
